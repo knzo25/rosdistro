@@ -5269,7 +5269,7 @@ python-transforms3d-pip:
     focal:
       pip:
         packages: [transforms3d]
-    humble:
+    jammy:
       pip:
         packages: [transforms3d]
 python-transitions:
